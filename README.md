@@ -17,3 +17,5 @@ To make this work,
 4)Move your fingers around and have fun!
 
 This is a simple fun project and is done in short time. It has many implementation defects and though this project works good, it needs a lot more fine tuning.
+
+Inspired and learned from #Codacus on Youtube. Big thanks to #Codacus.
