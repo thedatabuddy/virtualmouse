@@ -15,3 +15,5 @@ To make this work,
 3)Run the program, Grant camera permissions if any
 
 4)Move your fingers around and have fun!
+
+This is a simple fun project and is done in short time. It has many implementation defects and though this project works good, it needs a lot more fine tuning.
