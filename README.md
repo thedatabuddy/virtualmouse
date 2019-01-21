@@ -12,7 +12,7 @@ To make this work,
 
 2)Run the code (After installing all necessary libraries (OpenCV3, pynput, numpy, wxpython))
 
-3)Run the program, Grant camera permissions if any
+3)Run the program, grant camera permissions if any
 
 4)Move your fingers around and have fun!
 
